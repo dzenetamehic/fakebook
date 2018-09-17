@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+	font-family: 'Tajawal', sans-serif;
+	color: black;
+}
+
+a {
+    color: #fc506d;
+    text-decoration: none;
+    }
+
+a:hover {
+    color: #443b3d;
+}
+
+p {
+    /* for tags*/
+    color: #443b3d;
+    letter-spacing: .03em;
+    background-color: #ededed;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em
+}
+
+h2 {
+    color: #fc506d;
+    font-size: 26px;
+    font-family: 'Alex Brush', cursive;
+}
+
+.foto {
+    text-align: center;
+    margin: 30px
+}
+
+img {
+    border-radius: 50%
+}
+
+.title {
+    font-family: 'Alex Brush', cursive;
+    font-size: 50px;
+    color: #fc506d;
+    letter-spacing: .1em;
+    margin: 50px 0px 20px 0px;
+    text-align: center;
+}
+
+.list {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+.hobbies {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+
